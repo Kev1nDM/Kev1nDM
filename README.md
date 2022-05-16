@@ -4,7 +4,8 @@
 
 <p align='center'><b>"Yo vivo de preguntar, saber no puede ser lujo"</b></p>
 
-## 😁About me:
+## <img src="https://imgur.com/y1x2Qjc.png" widght="100" height="60" alt="AboutMe"/>
+
 * 📍 Im from Cuba
 * 📚 I am a student at the University of Informatics Sciences (UCI) 
 * ✨ I am a beginner in programming
@@ -15,6 +16,10 @@
   * 🧐 I am very detailed
   * 💕 I like what I do
   * 😤 I have a lot of patience
+
+## My social media:
+
+<a href="https://www.instagram.com/kev1ndm/"><img src="https://imgur.com/Lii2gYu.png" alt="Instagram" height="70" widght="70" img/></a> <a href="https://www.buymeacoffee.com/KevinDM"> <img src="https://imgur.com/QZx11GW.png" alt="Facebook" height="70" widght="70" img/> </a>
 
                        
 ## My stats:
