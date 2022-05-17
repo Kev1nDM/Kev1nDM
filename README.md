@@ -1,10 +1,10 @@
 ![Image](https://i.imgur.com/3D7I3iu.jpg)
 
-# <p align='center'><img src="https://c.tenor.com/mWVlRVpcm-8AAAAj/oscar-hi.gif" width="50" height="55" /> Hello dear < dev />, and welcome to my humble profile </p>
+# <p align='center'> Hello dear < dev />, and welcome to my humble profile </p>
 
 <p align='center'><b>"Yo vivo de preguntar, saber no puede ser lujo"</b></p>
 
-## <img src="https://imgur.com/y1x2Qjc.png" widght="100" height="60" alt="AboutMe"/>
+## About me: 
 
 * 📍 Im from Cuba
 * 📚 I am a student at the University of Informatics Sciences (UCI) 
@@ -28,4 +28,6 @@
 ## 💰 Donate:
 <a href="https://www.buymeacoffee.com/KevinDM"> <p align= "center">
          <img alt="Cofee" src="https://camo.githubusercontent.com/28aae05a0fba45679e8e27d90609601e249b64a5fe30dfef05495de4f4e318d4/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67"
-         width="200" height="60"> </p>
+         width="200" height="60"> </p> 
+ 
+ <p align="right"><img src="https://imgur.com/tyDD6f5.png" width="60" height="55" /> </p>
