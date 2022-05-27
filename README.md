@@ -17,10 +17,6 @@
   * 💕 I like what I do
   * 😤 I have a lot of patience
 
-## My social media:
-
-<a href="https://www.instagram.com/kev1ndm/"><img src="https://imgur.com/Lii2gYu.png" alt="Instagram" height="70" widght="70" img/></a> <a href="https://www.buymeacoffee.com/KevinDM"> <img src="https://imgur.com/QZx11GW.png" alt="Facebook" height="70" widght="70" img/> </a>
-
                        
 ## My stats:
 ![](https://komarev.com/ghpvc/?username=Kev1nDM&color=lightgray)
