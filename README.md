@@ -7,7 +7,6 @@
 ## About me: 
 
 * 📍 Im from Cuba
-* 📚 I am a student at the University of Informatics Sciences (UCI) 
 * ✨ I am a beginner in programming
 * 💌 I will be very happy to talk with you, you can write me on telegram: t.me/KevinDM
 
